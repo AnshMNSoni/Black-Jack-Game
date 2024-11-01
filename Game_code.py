@@ -1,5 +1,3 @@
-# Day :: 11
-
 # Black Jack Game:
 import random as r
 import art
