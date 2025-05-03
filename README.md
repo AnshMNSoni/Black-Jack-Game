@@ -67,6 +67,10 @@ python main.py
 ##### Preview
 ![image](https://github.com/user-attachments/assets/2544ceef-f45f-487e-80a8-a08d8ed516ab)
 
+### 📞 Contact me
+#### 🔗LinkedIn: [Connect with me](https://www.linkedin.com/in/anshmnsoni)
+
+
 ### Just play once,
 ### Enjoy the game! 🎮
 ### Thank you 💫 
