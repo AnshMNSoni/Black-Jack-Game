@@ -2,8 +2,6 @@ import tkinter as tk
 from tkinter import messagebox, simpledialog, ttk
 import random
 from PIL import Image, ImageTk
-import os
-import sys
 
 # Card suits and values
 SUITS = ["♠", "♥", "♦", "♣"]
