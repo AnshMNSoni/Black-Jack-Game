@@ -1,67 +1,68 @@
-🃏 Black-Jack-Game (with GUI)
-🌐 Blackjack is a popular card game played in casinos around the world. The goal of the game is to beat the dealer's hand without going over 21.
+# 🃏 Black-Jack-Game (with GUI)
+### 🌐 Blackjack is a popular card game played in casinos around the world. The goal of the game is to beat the dealer's hand without going over 21.
 
-Now enhanced with a Graphical User Interface (GUI) for a more engaging and interactive experience!
+- Now enhanced with a Graphical User Interface (GUI) for a more engaging and interactive experience!
 
-🎯 Objective
+### 🎯 Objective
 The objective is to have a hand value closer to 21 than the dealer's hand without exceeding 21.
 
-🃎 Card Values
-Number cards (2–10) are worth their face value.
+### 🃎 Card Values
+- Number cards (2–10) are worth their face value.
 
-Face cards (Jack, Queen, King) are worth 10 points each.
+- Face cards (Jack, Queen, King) are worth 10 points each.
 
-Aces can be worth 1 or 11, whichever benefits the hand most.
+- Aces can be worth 1 or 11, whichever benefits the hand most.
 
-🎲 The Deal
-Each player is dealt two cards face up.
+### 🎲 The Deal
+- Each player is dealt two cards face up.
 
-The dealer is dealt two cards: one face up and one face down (the hole card).
+- The dealer is dealt two cards: one face up and one face down (the hole card).
 
-👤 Player's Turn
-Hit: Take another card.
+### 👤 Player's Turn
+- Hit: Take another card.
 
-Stand: Keep your hand as is.
+- Stand: Keep your hand as is.
 
-Double Down: Double your bet, take exactly one more card, then stand.
+- Double Down: Double your bet, take exactly one more card, then stand.
 
-Surrender (if enabled): Forfeit the round to regain half of your bet.
+- Surrender (if enabled): Forfeit the round to regain half of your bet.
 
-🤵 Dealer's Turn
-The dealer reveals the hole card after all players have played.
+### 🤵 Dealer's Turn
+- The dealer reveals the hole card after all players have played.
 
-The dealer must hit until their total is 17 or higher.
+- The dealer must hit until their total is 17 or higher.
 
-Most casinos require the dealer to hit on a "soft 17" (a hand containing an Ace counted as 11).
+- Most casinos require the dealer to hit on a "soft 17" (a hand containing an Ace counted as 11).
 
-🏆 Winning & Payouts
-Win: Your hand is closer to 21 than the dealer's, or the dealer busts.
+### 🏆 Winning & Payouts
+- Win: Your hand is closer to 21 than the dealer's, or the dealer busts.
 
-Push: You and the dealer have the same hand value — bet is returned.
+- Push: You and the dealer have the same hand value — bet is returned.
 
-Lose: Your hand busts or the dealer’s is closer to 21.
+- Lose: Your hand busts or the dealer’s is closer to 21.
 
-🖥️ GUI Features
-Built using Tkinter (or mention the GUI framework used).
+### 🖥️ GUI Features
+- Built using Tkinter (or mention the GUI framework used).
 
-Interactive buttons: Hit, Stand, Restart Game.
+- Interactive buttons: Hit, Stand, Restart Game.
 
-Real-time score display.
+- Real-time score display.
 
-Graphical representation of cards.
+- Graphical representation of cards.
 
-User-friendly layout and color scheme.
+- User-friendly layout and color scheme.
 
-🚀 How to Run
-bash
-Copy
-Edit
-python blackjack_gui.py
-Ensure you have Python installed and the required GUI libraries available (e.g., Tkinter).
+### 🚀 How to Run
+```sh
+python main.py
+```
 
-📷 Screenshots (Optional)
+##### 📌 Ensure you have Python installed and the required GUI libraries available (e.g., Tkinter).
+
+
+### 📷 Screenshots (Optional)
 Add screenshots of your GUI interface here.
 
-Just play once,
-Enjoy the game! 🎮
-Thank you.
+##### Just play once,
+#### Enjoy the game! 🎮
+### Thank you 💫 
